@@ -95,22 +95,20 @@
 }
 
 body { background-image:url("https://eu-assets.simpleview-europe.com/portsmouth2020/imageresizer/?image=%2Fdbimgs%2FTheatres.jpg&action=MediaGalleryMobile");
-text-color: #ffffff;
-	
 
 }
  
 h1 {
-	text-color: white;
+	color: white;
 text-align:center;
   
 }
   
 
-h2 {text-color: white;
+h2 {color: white;
  
 }
-p{ text-color: white;}
+p { color: white;}
 ul { 
 }
 
