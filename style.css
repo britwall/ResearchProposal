@@ -94,7 +94,7 @@
 	#menu input:checked ~ ul {display:block}
 }
 
-body { background-color:#800000;}
+body { background-image:url("https://eu-assets.simpleview-europe.com/portsmouth2020/imageresizer/?image=%2Fdbimgs%2FTheatres.jpg&action=MediaGalleryMobile");}
 *{ text-color: white;}
 h1 {
 text-align:center;
