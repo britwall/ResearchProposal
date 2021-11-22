@@ -99,16 +99,14 @@ body { background-image:url("https://eu-assets.simpleview-europe.com/portsmouth2
 }
  
 h1 {
-	color: white;
-text-align:center;
-  
-}
+	color: #ffffff;
+text-align: center;}
   
 
-h2 {color: white;
- 
-}
-p { color: white;}
+h2 {color: #ffffff;}
+
+p { color: #ffffff;}
+
 ul { 
 }
 
@@ -117,22 +115,3 @@ ul li {
   
 }
 
-ul li a { 
-  text-decoration: none;
-  .testbutton {
-  font-family: helvetica;
-  color: #FFFFFF !important;
-  font-size: 17px;
-  text-shadow: 3px 1px 0px #521A1A;
-  box-shadow: 4px 1px 1px #961829;
-  padding: 10px 25px;
-  border-radius: 0px;
-  border: 0px solid #3866A3;
-  background: #911D1D;
-}
-.testbutton:hover {
-  color: #F0787C !important;
-  background: #7D2225;
-}
- 
-}
