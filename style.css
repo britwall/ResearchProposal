@@ -100,7 +100,7 @@ color: #f5f5f5 }
 h1 { text-align: center;}
   
 
-p { text-shadow: 2px 2px black;
+p { text-shadow: 2px 2px 5px black;
 	margin-left: 50px;
 	margin-right: 50px;}
 
@@ -108,9 +108,9 @@ p { text-shadow: 2px 2px black;
 ul li { 
   list-style: square;
 	color: #ffffff;
-text-shadow: 2px 2px black;
+text-shadow: 2px 2px 5px black;
 	}
 
-ol li {text-shadow: 2px 2px black;margin-left: 50px;
+ol li {text-shadow: 2px 2px 5px black;margin-left: 50px;
 	margin-right: 50px;}
 
