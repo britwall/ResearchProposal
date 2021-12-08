@@ -108,8 +108,8 @@ p { text-shadow: 1px 1px black;
 ul li { 
   list-style: square;
 	color: #ffffff;
-text-shadow: 1px 1px black;margin-left: 50px;
-	margin-right: 50px;}
+text-shadow: 1px 1px black;
+	}
 
 ol li {text-shadow: 1px 1px black;margin-left: 50px;
 	margin-right: 50px;}
